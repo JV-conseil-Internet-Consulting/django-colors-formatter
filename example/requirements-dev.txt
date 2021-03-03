@@ -1,0 +1,6 @@
+#
+# DJANGO_COLORS
+# > https://docs.djangoproject.com/en/3.1/ref/django-admin/#syntax-coloring
+# > https://github.com/sdurioanalytics/django-colors-formatter
+#
+git+https://github.com/sdurioanalytics/django-colors-formatter#egg=django-colors-formatter
